@@ -1,0 +1,25 @@
+Project Time Management
+--------------------------
+
+Process
+1) Plan Schedule Management
+2) Define Activities  - This is against each WBS items
+3) Sequence Activities
+4) Estimate Activity Resources
+5) Develop Schedule
+6) Control schedule
+
+
+
+UAT - User Acceptance Testing
+
+Rolling Wave Planning - Whatever information, we have to plan in detailed, not known information are listed (in summary) and detailed later
+
+
+
+
+
+Project cost management
+
+
+

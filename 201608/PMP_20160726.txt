@@ -1,0 +1,18 @@
+Scope Management
+https://www.youtube.com/watch?v=iHu0RyePLIM
+
+
+https://www.youtube.com/watch?v=CYVAKGA3UPM
+
+- Requirement Traceability Matrix (during requirement gathering)
+- 
+
+- WBS (using decomposition)
+- WBS Dictionary 
+- Work package  (A lowest level of work in WBS)
+
+ - IRR - Internal Reate of Return
+	Discount reate when present value of cashflows equals the 	investment
+
+
+

@@ -1,0 +1,11 @@
+1) Create an angularJS/MVC application that provide following capabilities. Use Web API, EF, LINQ and repository pattern
+
+
+The application provides video access to authorized users. Admin user can upload, record video for user to view, post response in video/text format.
+
+a) User registration
+b) User login
+c) Authorized user will be directed to their dashboard
+d) Dashboard contains Video files that user can view (user any free web video browsing tools)
+e) Application can also provide option to admin user to upload video, record video and categorize in a group and assign to different user group.
+

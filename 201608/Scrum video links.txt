@@ -1,0 +1,52 @@
+Scrum Video
+Intro + Basic
+https://www.youtube.com/watch?v=9TycLR0TqFA
+
+
+Roles
+---------------------
+Product Owner
+Development Team
+Scrum Master
+
+
+Scrum Aftifact
+----------------------
+Product Backlog -> Priortized list of user stories
+User Story -> As a user, I need ... so that ...
+Sprint Backlog
+Burndown chart
+
+
+Ceremonies/Meeting/Event
+----------------------
+Sprint Planning (What and how meeting) -
+Daily Scrum meeting
+Sprint Review Meeting
+Sprint Retrospective Meeting
+
+
+Scrum Workflow
+----------------------
+1) Product owner priortizes the list and create Product Backlog (top item of the list)
+2) Sprint Planning meeting - Top pririty user story
+3) Sprint Backlog
+4) Sprint Start -> Daily sprint -> Potentially shipable product
+5) Sprint Review and Retrospective
+
+Repeat this process for 
+
+
+
+CollabNet video are good
+https://www.youtube.com/watch?v=D8vT7G0WATM
+
+
+JIRA Query Language
+JIRA Admin
+
+
+
+
+TEDX
+https://www.youtube.com/watch?v=vuIlsN32WaE

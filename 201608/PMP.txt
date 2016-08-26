@@ -1,0 +1,621 @@
+https://www.youtube.com/watch?v=6vip-NGcagI
+
+PMI  - Project Management Institute, Non-profit organization headquarter at USA
+
+
+PMP - Project Management professional. Any industry project can be handled by PMP. PMP is a credential and valid for 3 years
+
+PDU - Professional Development Unit. It can be attained by many ways.
+      60 PDU per 3 yrs required to maintain the PMP certification
+
+PMBOK - A guide to the Project Management body of knowledge.
+        A textbook for PMP exam
+
+
+REP - Registered Education provider and provide 35 hrs PDU
+
+
+PMI members - First become member of PMI that is prerequisite for PMP exam and saves exam fee $150
+
+Exam Duration - 4 Hrs
+Total Questions - 200
+175 main and 25 are pre-test
+Multiple choice questions with 1 correct answer
+
+
+PMI Process group
+
+5 process group, 10 knowledge areas and 47 processes
+
+Project Management is divided into 5 process groups
+
+1) Initiation
+2) Planning
+3) Execution
+4) Monitoring and Controlling
+5) Closing
+
+
+
+
+Knowledge areas
+
+Project Integration Management
+Project Scope Management
+Project Time Management
+Project Cost Management
+Project Quality Management
+Project Human resource Management
+Project Communication Management
+Project Risk Management
+Project Procurement Management
+Project Stakeholders Management
+
+
+
+There are 47 process e.g. Develop Schedule, part of project planning group
+
+
+
+
+Project Management
+Program Management 
+Portfolio Management
+
+PMO office
+
+Project lifecycle and product lifecycle
+
+Project is a temporary endevour undertaken to create a unique product, service or result.
+* Project is temporary in nature but has a definite start and end date
+* project produces a unique output. The out can be a product, service or result
+
+
+A project comes to an end when
+
+* its objective are met or
+* the sponsor decides to terminate the project as  the objectives can not be met or are not longer needed
+
+Project work is different from operational work. Operations consist of ongoing, repetitive work
+
+
+Developing a new software system to effectively track customer complaints is an example of a project, while using this software to track customer complaints, it a part of operations.
+
+
+
+
+What is Project Management
+-------------------------------------
+
+Project management is the application of knowledge, skills, tools and techniques to project activities to meet the project requirements. Project management is performed by applying and integrating the 47 project management processes, which are logically grouped into five process groups.
+
+
+
+What is Program Management
+-------------------------------------
+The application of knowledge, skills, tools and techniques to a program to meet the program requirements and in order to obtain benefits and control not available by managing projects individually.
+
+A program is defined as a group of related projects, subprograms, and program activities managed in a coordinated way to obtain benefits not available from managing them individually.
+
+Following are the features of the program management
+
+* For a group of projects to be classified as a program, there must be some value added in managing them together as a program.
+
+* A project need not belong to a program; a program wiull always have projects.
+
+*A program is designed to deliver some strategic benefits to the organization; the benefits could be tangible (e.g. growing the operating margin) or intagible (e.g. improving the morale of the team)
+
+* A project manager focuses on fulfilling the requirement of a project, whereas a program manager focuses on delivery to benefits to the organization.
+
+
+
+
+What is Portfolio
+------------------------------------------
+
+A collection of projects, programs, sub-portfolios, and operations managed as a group to achieve strategic objectives.
+
+* Projects and programs of a portfolio may not be necessarily interdependent or directly related.
+
+* A portfolio can be based on the business objectives.
+
+
+E.g. Japanese projects can be a portfolio where an IT company puts all its projects from Japan and giuve more focus and attentions to its Japanese projects, and grow its Japanese business. Similar projects can be managed as a program within the portfolio; all banking projects will be managed as a 'banking program'.
+
+
+
+Portfolio Management
+------------------------------------------
+Portfolio management refers to the centralized management of one or more portfolios to schieve strategic objectives.
+
+Portfolio management includes identifying, priortizing, authorizing, managing and controlling projects, programs, and other related work to achieve stratetic business objectives.
+
+***Relation between Portlios, program  and project 
+
+
+
+PMO - Project Management office
+------------------------------------------
+A Project Management office (PMO) is a specific type of body, or department, within an organization. The roles of PMO are as follows :-
+
+Primary Role
+PMO has one or a combination of the following three primary roles :
+
+*It provides the policies, methodologies and tools and templates for managing multiple projects withing the organization.
+
+* It provides support and training in the organization on how to manage projects.
+
+* It provides project managers for different ongoing projects in the organization.
+
+
+Other Roles
+------------------------
+PMO may also help in the following areas:
+* Managing interdependencies between projects
+* Selecting, managing and deploying shared or dedicated project resources
+* Terminating projects
+* Organizing lesson-lerned sessions.
+* Maintaining the project management knowledge base for an organization.
+
+
+Project Constraints
+
+Time , Cost and Scope
+Time, Cost, Quality, Scope
+People, Procurement, Communication, Risks, Stakeholders
+
+Stakeholder
+--------------------
+
+An individual, group or organization who may affect or affected by, or perceived itself to be affected by a decision, activity, or outcome of the project.
+
+The project team, project manager, project sponsor, PMO office, customer etc. are the stakeholder of the project.
+
+A project sponsor is the one who gives a go ahead for a project and provide the necessary resources to execute the project.
+
+Stakeholder Management
+----------------------------
+A key responsibility of a project manager is to manage stakeholders. Project manager has to take up specific activities for stakeholder management.
+
+* Identify internal and external stakeholder
+* Determining Stakeholder requirement
+* Determining stakeholders expoectations
+* Communication with stakeholder
+
+
+
+Organization Structure
+-----------------------------
+* Functional Organization
+* Projectized types
+* Matrix -> Blend of both types (Strong, Balanced, Weak)
+            Authority of Project manager decides whether it is strong 
+		matrix or weak	matrix
+
+tight matrix - co-located team to enhance performance
+in default take it as a matrix organization
+
+
+Project Lifecycle Vs. Product Lifecycle
+------------------------------------------
+
+Project life cycle spans the initiation of a project until the closure, while product life cycle encompasses the operational and maintenance phases.
+
+* A typical product life cycle cstarts with the conception of the product and goes until its withdrawl from the market or when it becomes obsolete.
+
+* Product has a long life cycle; it can require or spawn many projects over its life.
+
+* A product life cycle depends upon the control needs of the performing organization or the organization's preference defined in their project execution methodology.
+
+
+
+Product Life Cycle
+---------------------------
+
+The phases of a lifecycle represent a discrete unit of work to be completed on the project. There are various classification of project lifecycles
+
+* Sequential and overlapping phases
+* Predictive Lifecycles (or Plan driven)
+* Iterative and Incremental Lifecycle
+* Adaptive (or Agile) Lifecycle
+
+
+
+
+
+Project Management Processes
+---------------------------------------------------------------
+
+
+Project life cycle vs. project management phases
+
+
+Project Management Process group
+Initiating Process Group
+Planning Process Group
+Execution Process Group
+Monitoring and Controlling Process Group
+Closing Process Group
+
+
+
+The iteration of processes within the phases is dependent on the scale of the projects. Small projects may have only one iteration, while bigger projects may have multiple iterations before they enter a new phase.
+
+Process Group have overlapping activities that occur throughout the project life cycle. The output of one process act as an input to another process or a deliverable of the project.
+
+
+Project life cycle addresses the question, "What to do to get the work done?" while Project management process addresses the question, "What to do to manage the project?"
+
+There are 47 processes in project management grouped into ten knowledge areas and mapped to five process groups.
+
+Initiating Process Group defines a new project or phase. When  the project charter is approved, the project is officially authorized.
+
+Planning Process Group establishes the total scope of effort, objectives, and course of action required to attain those objectives.
+
+Executing process group completes the work defined in the project management plan to satisfy the project specification.
+
+
+Monitoring and Controlling Process group tracks, reviews and regulates the progress and performance of the project; identifies and initiates the changes to the plan when required.
+
+Closing Process Group finalizes the activities across all Process Groups to formally complete the project, phase or contractual obligation.
+
+
+
+Project Integration Management
+-----------------------------------------------------------
+Project Integration Management involves unification, consolidation, articulation and integrative action that are crucial for successfully completing the project.
+
+Project Integration Management is a high level work that requires the project manager to manage interdependencies among the other knowledge areas.
+
+
+
+E.g. A new resource added to the project may require change in cost and schedule and that need to be integrated into the project management
+
+Key role of the project manager
+--------------------------------------------------
+* The key role of the project manager is to integrate various activities of the project.
+
+* The key role of a project team is to concentrate on completing the project activities.
+
+* the key role of a project sponsor is to protect the project team from unnecessary changes and loss of resources. 
+
+
+Project Selection Methods
+------------------------------------
+
+An organization can undertake a project as a contract or driven by business needs.
+
+There should be a formal process for selecting projects to ensure that the limited corporate resources are optimized.
+
+The two broad project selection methods are as follows :-
+
+Benefit Measurement Methods
+These methods ascertain the costs and benefits of undertaking the project.
+
+Examples of benefits measurement methods :
+* Murder Board
+* Peer Review
+* Scoring Model
+* Economic Models
+* Benefits compared to cost
+
+
+Constrained optimization methods
+These methods rely on mathematics modeling technique to determine the selection of the best projects to achieve certain business activities.
+Examples of constrained oprimization methods
+* Linear programming
+
+
+
+
+*******************
+Processes under project Integration Management
+-----------------------------------------------------
+1) Develop Project Charter
+
+
+Develop project charter is a process of developing a document that formally authorizes the existnance of an project and privdes the project manager with the authority to apply organization resources to the project activities. It belongs to Initiation process Group.
+
+Input required : Project Statement of work  (RFP)
+                 Business case (Cost benefit analysis, business needs)
+                 Agreement / Contract
+                 Enterprise environmental factors (culture, systems)
+                 Organizational process assets (policies, procedure, 		historical information for similar project)
+
+
+Tools : Expert Judgement, Facilitation Technique (discussion with group)
+
+Output : Project charter
+
+What it contains?
+High level project requirement. It must be singed by higher authority and it is not a project management plan and should be done during project management planning phase. It is just a overview of the project.
+
+
+
+
+
+
+2nd process under P. Integration 
+Develop Project Management Plan
+------------------------------------------------
+
+Develop project management plan is the process of defining, preparing, integrating, and coordinating all subsidiary plan and integrating them into a comprehensive project management plan.
+
+ * Project management plan is a detailed document which describes how the project would be executed, monitored and controller and closed.
+ * Project management plan contains all the subsidiary plans and their baseline value. Performance measurement baseline of project's time is the total of project baseline time and the agreed time variance.
+
+eg. - If the initial agreed time for a project is 180 days, it is the project baseline time value. If the agreed variance is 10%, the project should be executed in maximum of 180 + (180*10/100) = 180 + 18 = 198 days
+
+
+Input Required : Project Charter
+                 Output from other processes
+                 Enterprise environmental factors (culture, systems)
+                 Organizational process assets (policies, procedure, 		                 historical information for similar project)
+
+
+
+Tools : Expert Judgement, Facilitation Technique (discussion with group)
+
+Output : Project Management Plan
+
+
+The following key terms ar essential to understand project management processes :-
+
+* Work Authorization System :-
+
+* Corrective Action
+
+* Preventive Action
+
+* Change Control System
+
+* Configurable Management System
+
+
+
+
+Next process
+Direct and Manage project work
+---------------------------------------------
+
+Direct and Manage Project Work is the process of leading and performing the work defined in the project management plan to achieve the project objectives. It belongs to the Executing Process Group.
+
+Input : Project Management Plan, Approved Change Request, Enterprise 	environmental factors (culture, systems)
+                 Organizational process assets 
+
+
+
+Tools : Expert Judgement,Project Management Information System, Meeting
+
+Output : Project Deliverables
+	 Work performance data
+	 New Change Request
+	 Project Document Update
+
+
+
+
+Next process
+Monitor and Control project work
+---------------------------------------------
+Monitor and Control project work is the process of tracking, reviewing, and regulating the progress to meet the performance objectives defined in the project mangement plan. It belongs to the Monitoring and Controlling Process Group.
+
+
+Input : 
+	Project Management plan
+	Work performance information
+	Schedule forecasts
+	Cost forecasts
+	Validated Changes
+	Enterprise environmental factors
+	Organizational process assets
+
+
+Tools and Techniques
+	Expert Judgement
+	Analytical TEchnique
+	PMS system
+	Meeting
+
+
+Output
+
+
+	Work performance REport
+	Project Document updates
+	Changes Requests
+	Project Management plan updates
+	Work performance report
+
+
+
+Next process
+Perform Integrated change control
+---------------------------------------------
+Peform Integrated change control is the process of reviewing all change requests, approving and manging changes to the project deliverables, organization process assets, project documents and the project management plan. It belongs to the Monitoring and Controlling Process Group.
+
+
+
+Input : 
+	Project Management plan
+	Work performance information
+	Change Request
+	Enterprise environmental factors
+	Organizational process assets
+
+
+Tools and Techniques
+	Expert Judgement
+
+	PMS system
+	Meeting
+
+
+Output
+	Approved Change Request
+	Change log
+	Project Management plan updates
+	Project Document updates
+
+
+Funtioning of the Process
+1) Determine that a change has occurred or is necessary
+2) Evaluate the impract of change
+3) Look for alternative (add resources, increase time and add cost)
+4) Discuss internally to absorb the cost
+5) If it affects baseline, then involve externally (customer)
+
+
+
+
+Next process
+Close Project or Phase
+---------------------------------------------
+Clsoe Project or Phase is the process of finalizing all activities across all the project management process group to formally complete the project or phase. It belongs to the Closing Process Group.
+
+PM must formally close the project even if it is terminated due to some problems
+
+Input : Accepted Deliverables
+	Project Management plan
+	Enterprise environmental factors
+	Organizational process assets	
+
+
+
+Tools and Techniques
+	Expert Judgement
+	Analytical Techniques
+	Meeting
+
+Output
+	Final product, service or result transition
+	Organization process assets updates
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Process to prepare the exam
+--------------------------------------
+https://www.youtube.com/watch?v=AJ-EpFbctB4
+
+
+
+1) Attend Session 
+2) Read PMBOK 
+3) PMP Exam Prep (rita Mulke)
+4) Take Mock Examination and do it 4 hours
+   93/200
+
+5) 8-12 weeks required to make 140
+6) Everyday spend 1-2 hours
+7) Select preferred process groups and secure marks
+8) Make notes (Analyze) based on Mock exams
+9) Make process dump sheet/group/knowledge area/processes
+
+  Process Question
+  Situational Question
+  Document Question
+  Input/Output Question
+
+10) Create (47) FlashCard for input -> Technique -> Output to all process
+11) Mind map about the process groups
+12) Take max mocks 2000 questions to get fair understanding
+13) Mohit Arora 5 PMP Test
+
+14) Saket bansal from IGEN bridge
+15) Process chart how process interacting with each other -Ricardo verghese16
+) Put more imphasis on planning after every mock
+
+17) Glossary to review to get to know how many you remembers
+
+8-12 weeks for preparation
+
+
+
+
+
+**** Test Driven Development (TDD)
+https://www.youtube.com/watch?v=5gMBGVNR8wE
+
+
+*****NUNIT
+
+Nunit is a unit testing framework that need to be downloaded.
+
+
+Nunit has built in runner
+
+TestDriven.net
+
+ReSharper to run the test.
+
+White box testing (internal/Component testing) Vs. Black Box testing (Functionality/ Acceptance Testing)
+
+http://softwaretestingfundamentals.com/differences-between-black-box-testing-and-white-box-testing/
+
+
+Alpha Testing ( Alpha testing is a type of acceptance testing; performed to identify all possible issues/bugs before releasing the product to everyday users or public.)
+
+Vs. Beta Testing (Post Release to selected user group)
+
+Beta Testing of a product is performed by "real users" of the software application in a "real environment" and can be considered as a form of external user acceptance testing.
+
+
+http://www.guru99.com/alpha-beta-testing-demystified.html
+
+
+
+
+
+
+
+
+TDD vs. BDD (Behaviour Driven Development)
+
+The main difference is just the wording. BDD uses a more verbose style so that it can be read almost like a sentence.
+
+This is what I meant by saying that BDD eliminates issues that TDD might cause. The ability to read your tests like a sentence is a cognitive shift in how you will think about your tests. The argument is that if you can read your tests fluidly, you will naturally write better and more comprehensive tests.
+
+
+
+ATDD - Acceptance TDD
+DDD - Domain Driven Development
+
+
+
+What's the difference between DDD, TDD and BDD?
+All three double D's are about how to approach your design. What drives you, how do you get started, what's your angle? How do you decide which classes to use? What are the dependencies, etc.
+
+Domain Driven Design (DDD) focusses on the core model (the domain) and tries to keep other stuff like UI's and databases separate. You can google for the site and the Book from Evans. I'm not too convinced it offers much new, but maybe I'm influenced too much by the worst presentation of QCon (Filipe Rodrigues, better luck next time man). I also have a graduate which can't explain to me what the big deal is.
+
+Test Driven Development (TDD) is the one I'm most familiar with from my XP classes. First code your JUnit test and then code your class to make it pass.
+
+Behaviour Driven Development was new to me. I noticed they were talking about BDD in connection to Ruby (RSpec), but just stumbled across a nice page that explains the concept: http://dannorth.net/introducing-bdd. Even if you don't use BDD, it gives some really nice tips for TDD.
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,8 @@
+
+Web API
+http://www.c-sharpcorner.com/UploadFile/dacca2/web-api-with-ajax-cross-domain-ajax-call-with-get-request/
+
+
+
+Automapper for mapping class with disimilar names
+https://dotnetcademy.net/Learn/2/Pages/2
